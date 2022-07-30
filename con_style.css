@@ -1,0 +1,24 @@
+body{
+    margin: 20px;
+    padding: 50px;
+    background-color: firebrick;
+}
+.row{
+    background-color: rgb(68, 200, 240);
+    border: 2px solid black;
+    padding: 30px;
+}
+.col-3{
+    background-color: rgb(247, 60, 60);
+    margin: auto;
+    border: 2px solid black;
+    padding: 20px;
+    font-size:xx-large;
+    display: flex;
+    justify-content: center;
+}
+.col-6{
+    background-color: rgb(247, 250, 81);
+    border: 2px solid black;
+    padding: 20px;
+}

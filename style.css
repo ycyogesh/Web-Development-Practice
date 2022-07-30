@@ -1,0 +1,71 @@
+body{
+    margin: 50px;
+}
+div{
+    border: 1px solid rgb(240, 235, 235);
+    padding: 20px;
+}
+.header{
+    background-color: rgb(233, 241, 241);
+    border: 1px solid black;
+}
+.a{
+    background-color: rgb(206, 151, 79);
+    border: 1px solid #0a0707;
+}
+.b{
+    background-color: rgb(69, 184, 219);
+    border: 1px solid #070707;
+}
+.c{
+    background-color: rgb(97, 68, 9);
+    border: 1px solid rgb(14, 13, 13);
+}
+.d{
+    background-color: rgb(78, 57, 199);
+    border: 1px solid rgb(7, 6, 6);
+}
+.e{
+    background-color: rgb(249, 250, 249);
+    border: 1px solid #030303;
+}
+.f{
+    background-color: yellow;
+    border: 1px solid rgb(8, 8, 7);
+}
+.g{
+    background-color: pink;
+    border: 1px solid royalblue;
+}
+.h{
+    background-color: royalblue;;
+    border: 1px solid rgb(230, 26, 60);
+}
+.j{
+    background-color: brown;
+    border: 1px solid black;
+}
+.k{
+    background-color: rgb(62, 223, 142);
+    border: 1px solid black;
+}
+.l{
+    background-color: rgb(236, 186, 48);
+    border: 1px solid black;
+}
+.m{
+    background-color: rgb(233, 29, 223);
+    border: 1px solid black;
+}
+.n{
+    background-color: rgb(252, 229, 30);
+    border: 1px solid black;
+}
+.o{
+    background-color: rgb(224, 47, 100);
+    border: 1px solid black;
+}
+.p{
+    background-color: rgb(70, 112, 228);
+    border: 1px solid black;
+}

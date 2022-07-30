@@ -1,0 +1,41 @@
+body{
+    background-color: lavender;
+}
+.row{
+    border: 2px solid black;
+    padding: 30px;
+}
+.col-6{
+    background-color: aquamarine;
+    border: 2px solid black;
+    padding: 20px;
+}
+.col-4{
+    border: 2px solid black;
+    padding: 20px;
+}
+.col-8{
+    border: 2px solid black;
+    padding: 20px;
+}
+.gutter{
+         --bs-gutter-x: 0;
+}
+.a{
+    background-color: blanchedalmond;
+}
+.b{
+    background-color: rgb(224, 144, 53);
+}
+.c{
+    background-color: violet;
+}
+.d{
+    background-color: tomato;
+}
+.e{
+    background-color: springgreen;
+}
+.f{
+    background-color: saddlebrown;
+}
